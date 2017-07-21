@@ -1,0 +1,1 @@
+Data files can be gathered from TCGA using the manifest file "all_cancers_manifest.txt" as input for the gdc-client tool found at the TCGA website.

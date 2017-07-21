@@ -1,0 +1,34 @@
+abbreviation, cancer_name
+BRCA, Breast Invasive Carcinoma
+GBM, Glioblastoma Multiforme
+OV, Ovarian Serous Cystadenocarcinoma
+LUAD, Lung Adenocarcinoma
+UCEC, Uterine Corpus Endometrial Carcinoma
+KIRC, Kidney Renal Clear Cell Carcinoma
+HNSC, Head and Neck Squamous Cell Carcinoma
+LLG, Brain Lower Grade Glioma
+THCA, Thyroid Carcinoma
+LUSC, Lung Squamous Cell Carcinoma
+PRAD, Prostate Adenocarcinoma
+SKCM, Skin Cutaneous Melanoma
+COAD, Colon Adenocarcinoma
+STAD, Stomach Adenocarcinoma
+BLCA, Bladder Urothelial Carcinoma
+LIHC, Liver Hepatocellular Carcinoma
+CESC, Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma
+KIRP, Kidney Renal Papillary Cell Carcinoma
+SARC, Sarcoma
+LAML, Acute Myeloid Leukemia
+ESCA, Esophageal Carcinoma
+PAAD, Pancreatic Adenocarcinoma
+PCPG, Pheochromocytoma and Paraganglioma
+READ, Rectum Adenocarcinoma
+TGCT, Testicular Germ Cell Tumors
+THYM, Thymoma
+KICH, Kidney Chromophobe
+ACC, Adrenocortical Carcinoma
+MESO, Mesothelioma
+UVM, Uveal Melanoma
+DLBC, Lymphoid Neoplasm Diffuse Large B-cell Lymphoma
+UCS, Uterine Carcinosarcoma
+CHOL, Cholangiocarcinoma

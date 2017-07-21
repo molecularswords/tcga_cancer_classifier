@@ -1,0 +1,1 @@
+Processed data files can be generated after gathering the original data from TCGA (for instructions on how to do this see data/data_from_tcga/original_data_files_were_excluded_from_push_for_size_reasons.txt) and then running the functions in the scripts/data_processing.ipynb notebook.
